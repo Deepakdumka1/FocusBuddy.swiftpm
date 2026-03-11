@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deepakdumka/FocusBuddy/main/Assets/AppIcon.png" width="120" alt="FocusBuddy Icon" onerror="this.style.display='none'">
   <h1>🎯 FocusBuddy</h1>
   <p>An immersive, beautifully designed focus timer built completely in SwiftUI.</p>
   
@@ -31,9 +30,9 @@
 *(Replace these with your actual screenshots)*
 
 <div align="center">
-  <img src="https://placehold.co/250x541/111116/FFFFFF.png?text=Main+Timer" alt="Main Timer View" width="200" style="margin: 10px; border-radius: 20px;">
-  <img src="https://placehold.co/250x541/111116/FFFFFF.png?text=Select+Theme" alt="Theme Selector" width="200" style="margin: 10px; border-radius: 20px;">
-  <img src="https://placehold.co/250x541/111116/FFFFFF.png?text=User+Stats" alt="Statistics View" width="200" style="margin: 10px; border-radius: 20px;">
+  <img src="ss/candle.png" alt="Main Timer View" width="200" style="margin: 10px; border-radius: 20px;">
+  <img src="ss/ice.png" alt="Theme Selector" width="200" style="margin: 10px; border-radius: 20px;">
+  <img src="ss/sand.png" alt="Statistics View" width="200" style="margin: 10px; border-radius: 20px;">
 </div>
 
 ---
